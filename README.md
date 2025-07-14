@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:alfathya.kha01@gmail.com"><img src="https://img.shields.io/badge/email-%23ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/alfathya-khaerunnisa/"><img src="https://img.shields.io/badge/linkedin-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/al-fathya-khaerunnisa-2480761b6/"><img src="https://img.shields.io/badge/linkedin-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/alfathya"><img src="https://img.shields.io/badge/github-%2312100e.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
