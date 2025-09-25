@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there, I'm Al Fathya Khaerunnisa 👋</h1>
+<h1 align="center">I'm Al Fathya Khaerunnisa 👋</h1>
 
 <p align="center">
   <strong>Backend Developer</strong> from Bogor, Indonesia<br/>
